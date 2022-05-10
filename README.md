@@ -1,6 +1,6 @@
 ## Hi, I'm Emilie 👋
 
-#### I'm a budding front-end developper with a background in UX design.
+#### I'm a budding front-end developer with a background in UX design.
 I was previously working for a fintech startup in Hong Kong, and have relocated to Manchester, UK. I'm a polyglot and love to travel. Originally from Geneva, Switzerland.
 
 ###### NOW

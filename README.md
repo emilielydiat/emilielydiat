@@ -5,7 +5,7 @@ I was previously working for a fintech startup in Hong Kong, and have relocated 
 
 ###### NOW
 - Job hunting freelancer
-- Completing The Odin Project's full stack Javascript curriculum
+- Completing The Odin Project's Full Stack Javascript <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript">curriculum</a>
 
 ###### FIND ME
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilie-trippel/)](https://www.linkedin.com/in/emilie-trippel/)

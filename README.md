@@ -1,10 +1,10 @@
 ## Hi, I'm Emilie 👋
 
-#### I'm a budding front-end developer with a background in UX design.
-I was previously working for a fintech startup in Hong Kong, and have relocated to Manchester, UK. I'm a polyglot and love to travel. Originally from Geneva, Switzerland.
+#### I'm a budding Front End Developer with a background in UX Design.
+I was previously working for a FinTech startup in Hong Kong, and have relocated to Manchester, UK. I'm a polyglot and love to travel. Originally from Geneva, Switzerland.
 
 ###### NOW
-- Job hunting freelancer
+- Freelance Web Developer & UX Designer
 - Completing The Odin Project's Full Stack Javascript <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript">curriculum</a>
 
 ###### FIND ME

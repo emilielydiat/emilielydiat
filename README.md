@@ -1,6 +1,6 @@
 ## Hi, I'm Emilie 👋
 
-#### I'm a budding Front End Developer with a background in UX Design.
+#### I'm a Front End Developer with a background in UX Design.
 I was previously working for a FinTech startup in Hong Kong, and have relocated to Manchester, UK. I'm a polyglot and love to travel. Originally from Geneva, Switzerland.
 
 ###### NOW
@@ -18,6 +18,7 @@ I was previously working for a FinTech startup in Hong Kong, and have relocated 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">

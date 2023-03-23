@@ -4,7 +4,7 @@
 I was previously working for a FinTech startup in Hong Kong, and have relocated to Manchester, UK. I'm a polyglot and love to travel. Originally from Geneva, Switzerland.
 
 ###### NOW
-- Freelance Web Developer & UX Designer
+- Front End Developer & UX Designer
 - Completing The Odin Project's Full Stack Javascript <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript">curriculum</a>
 
 ###### FIND ME

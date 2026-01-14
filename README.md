@@ -7,8 +7,8 @@ I'm currently building my own web application **PickyPlate**, which helps turn t
 
 I've previously worked at FinTech startups in Hong Kong and Manchester, UK. My background in UX Design and teaching has shaped how I approach problem-solving and collaboration, with an emphasis on empathy and clear communication across people from diverse teams.
 
-📍 Based in Manchester, UK (originally from Geneva, Switzerland)  
-🌍 Multilingual: French & Cantonese (native), Spanish (fluent), Mandarin (conversational)
+📍 **Based in Manchester, UK** (originally from Geneva, Switzerland)  
+🌍 **Multilingual**: French & Cantonese (native), Spanish (fluent), Mandarin (conversational)
 
 <br>
 
